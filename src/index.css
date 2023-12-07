@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{font-family: 'Roboto', sans-serif;
+font-weight: 600;
+overflow-x: hidden;
+
+}
+
+section{
+    width:100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    z-index: 100;
+    text-align: center;
+
+}

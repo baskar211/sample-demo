@@ -1,0 +1,10 @@
+
+.container-head{
+    background:linear-gradient( rgba(0,0,0,0.1),rgba(0,0,0,0.2)),url(/src/assets/images/slider-bg.jpg);
+    background-size: cover;
+    filter: brightness(120%);
+    background-position-x: 33%;
+    background-position-y: 33% !important;
+    height: 95vh;
+    -webkit-filter: brightness(120%);
+}
